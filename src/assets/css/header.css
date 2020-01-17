@@ -1,0 +1,22 @@
+#header{
+  display: inline-block;
+}
+p{
+  color: #FE9901;
+  font-family: "嵐 - 沁惜体";
+}
+.head_left{
+  position:absolute;
+  left:20px;
+  top: -5px;
+}
+.head_right{
+  position: absolute;
+  right: 20px;
+  vertical-align: center;
+}
+a{
+  text-decoration:none;
+  color: #000000;
+}
+
